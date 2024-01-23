@@ -1,7 +1,7 @@
 import java.awt.Color;
 
 /**
- * Demonstrates the morphing operation featured by Runigram.java. 
+ * Demonstrates the morphing and greyscaling operations featured by Runigram.java. 
  * The program recieves two command-line arguments: a string representing the name
  * of the PPM file of a source image and the number of morphing steps (an int). 
  * For example, to morph thor into its greyscaled version in 50 steps, use:
